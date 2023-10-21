@@ -28,3 +28,6 @@ Notifications
 Add or Remove users from group
 
 View Other user Profile
+
+# Note
+Anywhere if you feel the page is not updated/loaded just refresh the page.
