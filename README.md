@@ -1,5 +1,5 @@
 **Name:** Alekhya Dharam, 
-**College:** IIT BHU, Varanasi, 
+**University:** IIT BHU, Varanasi, 
 **Department:** Pharmaceutical Engineering and Technology
 
 # Talk-A-Tive
