@@ -1,3 +1,10 @@
+# Name:
+Alekhya Dharam
+# College:
+IIT BHU, Varanasi
+# Department:
+Pharmaceutical Engineering and Technology
+
 # Talk-A-Tive
 Talk-a-tive is a Full Stack Chatting App. Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 
